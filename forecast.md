@@ -1,6 +1,6 @@
 # Forecast
 
-Cloudy with a chance of meetballs
+Cloudy with a chance of sun
 
 ## Tomorrow
 
